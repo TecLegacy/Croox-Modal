@@ -1,0 +1,14 @@
+.card {
+  background-color: rgba(189, 141, 236, 0.803);
+  width: 90%;
+  max-width: 40rem;
+  margin: 1rem auto;
+  border-radius: 6px;
+  padding: 1rem;
+  /* margin: 1rem auto; */
+  /* border-radius: 6px; */
+  /* background-color: white;
+  padding: 1rem;
+  width: 90%;
+  /* max-width: 40rem; */
+}

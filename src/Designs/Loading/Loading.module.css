@@ -1,0 +1,10 @@
+.loading {
+  position: absolute;
+  width: 60vw;
+  background-color: rgba(197, 33, 33, 0.841);
+  color: aliceblue;
+  padding: 20px 20px;
+  margin-left: 20rem;
+  font-size: 2rem;
+  text-align: center;
+}

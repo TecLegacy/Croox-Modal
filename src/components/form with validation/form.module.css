@@ -1,0 +1,18 @@
+.center {
+  position: relative;
+}
+
+form label,
+form input {
+  display: block;
+  margin: 2rem;
+}
+form input,
+form label {
+  padding: 10px;
+  font-size: 12px;
+  border: none;
+  border-radius: 20rem;
+  color: rgb(50, 159, 254);
+  background-color: aliceblue;
+}
